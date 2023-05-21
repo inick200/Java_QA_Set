@@ -2,8 +2,11 @@ package Java_QA_Set;
 
 import java.io.IOException;
 
+/**
+ * @author Abhishek K. Ghosh
+ */
 class A {
-    public void process() {
+    public void process() throws IOException {
         System.out.println("A,");
     }
 }

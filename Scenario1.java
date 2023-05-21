@@ -1,5 +1,8 @@
 package Java_QA_Set;
 // This series is one of the set from scenario based java questions. Guess the output ?
+/**
+ * @author Abhishek K. Ghosh
+ */
 public class Scenario1 {
     static void test() throws RuntimeException {
         try {
