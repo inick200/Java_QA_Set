@@ -1,7 +1,7 @@
 package Java_QA_Set;
 
 /**
- * @author Abhishek K. Ghosh
+ * @author Abhishek K G.
  */
 class MyException extends Exception {
     int detail;

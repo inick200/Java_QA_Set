@@ -3,7 +3,7 @@ package Java_QA_Set;
 import java.io.IOException;
 
 /**
- * @author Abhishek K. Ghosh
+ * @author Abhishek K. G
  */
 class A {
     public void process() throws IOException {
