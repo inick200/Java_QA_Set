@@ -1,6 +1,8 @@
 package Java_QA_Set;
 
-/** @author Abhishek KG. */
+/**
+ * @author Abhishek K G.
+ */
 public class Scenario12 {
     int val = 85;
     Scenario12(){
