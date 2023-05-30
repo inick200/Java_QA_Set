@@ -32,6 +32,7 @@ public class Scenario14 {
         System.out.println("slot: "+big.getValue());
         System.out.println("ordinal value: "+value);
         System.out.println("name: "+name);
+        System.out.println("medium slot: "+ParkingSlots.MEDIUM.getValue());
     }
 }
 
