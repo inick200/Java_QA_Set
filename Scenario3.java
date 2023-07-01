@@ -6,7 +6,7 @@ import java.io.IOException;
  * @author Abhishek K. G
  */
 class A {
-    public void process() throws IOException {
+    public void process() {
         System.out.println("A,");
     }
 }
